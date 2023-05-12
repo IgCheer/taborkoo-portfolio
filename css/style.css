@@ -1513,6 +1513,7 @@ button {
 }
 .magic-footer__item {
   display: block;
+  cursor: none;
   padding-left: 250px;
   border-bottom: 1px solid rgba(240, 238, 238, 0.193);
   padding-top: 30px;
